@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="808" started-at="2019-11-17T11:34:45Z" finished-at="2019-11-17T11:34:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="808" started-at="2019-11-17T11:34:45Z" finished-at="2019-11-17T11:34:45Z">
+      <class name="JenkinsDemo.NewTest">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:JenkinsDemo.NewTest@2ef9b8bc]" name="launchBrowser" duration-ms="8" started-at="2019-11-17T17:04:45Z" finished-at="2019-11-17T17:04:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="launchBrowser1()[pri:0, instance:JenkinsDemo.NewTest@2ef9b8bc]" name="launchBrowser1" duration-ms="779" started-at="2019-11-17T17:04:45Z" finished-at="2019-11-17T17:04:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser1 -->
+      </class> <!-- JenkinsDemo.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
